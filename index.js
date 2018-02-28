@@ -35,3 +35,4 @@ function removeLastKitten() {
   var newKittens = [...kittens, name]
   return newKittens
 }
+
